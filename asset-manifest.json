@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.54df798f.css",
   "main.css.map": "static/css/main.54df798f.css.map",
-  "main.js": "static/js/main.42c25b84.js",
-  "main.js.map": "static/js/main.42c25b84.js.map",
+  "main.js": "static/js/main.cac7271e.js",
+  "main.js.map": "static/js/main.cac7271e.js.map",
   "static\\media\\chewing-gum.jpg": "static/media/chewing-gum.fcb0695f.jpg",
   "static\\media\\chips.jpg": "static/media/chips.c164e9ba.jpg",
   "static\\media\\chocolate.jpg": "static/media/chocolate.fc68b1a5.jpg",
@@ -14,6 +14,7 @@
   "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
   "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static\\media\\peanuts.jpg": "static/media/peanuts.4afb7392.jpg",
+  "static\\media\\react.png": "static/media/react.9e31d0e1.png",
   "static\\media\\twix.jpg": "static/media/twix.98ec59ae.jpg",
   "static\\media\\water.gif": "static/media/water.bf1ff71f.gif"
 }
